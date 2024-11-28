@@ -24,8 +24,8 @@ delete, and view books with additional features like assigning authors, categori
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/book-management-system.git
-   cd book-management-system
+   git clone https://github.com/Bribbo38/BookArchive.git
+   cd BookArchive
 
 2. **Install Dependencies:**
    ```bash
